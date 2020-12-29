@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 📸 Cats, dogs, and embroidery on IG [@syntactic_sugar](https://www.instagram.com/syntactic_sugar/)
 
 🐦 Dipping my toe in the Twitter pool [@syntactic_sugar](https://twitter.com/syntacticXsugar)
-
-✏️ Learn from my Medium highlighting [@syntacticsugar](https://medium.com/@syntacticsugar/highlights)
