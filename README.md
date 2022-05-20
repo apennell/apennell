@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 💼 My professional side on LinkedIn [/apennell](https://www.linkedin.com/in/anniepennell/)
 
-📸 Cats, dogs, and embroidery on IG [@syntactic_sugar](https://www.instagram.com/syntactic_sugar/)
+📸 Cats, dogs, roller skating, and embroidery on IG [@syntactic_sugar](https://www.instagram.com/syntactic_sugar/)
 
-🐦 Dipping my toe in the Twitter pool [@syntactic_sugar](https://twitter.com/syntacticXsugar)
+🐦 Dipping my toe in the Twitter pool, sort of [@syntactic_sugar](https://twitter.com/syntacticXsugar)
