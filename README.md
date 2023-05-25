@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 
 ### Check me out
 
-👩‍💻 Frozen-in-time personal site built in 2015 that will be updated sOmEdAy [anniepennell.com](https://anniepennell.com/)
+👩‍💻 Personal website [anniepennell.com](https://anniepennell.com/)
 
 💼 My professional side on LinkedIn [/apennell](https://www.linkedin.com/in/anniepennell/)
 
 📸 Cats, dogs, roller skating, and embroidery on IG [@syntactic_sugar](https://www.instagram.com/syntactic_sugar/)
-
-🐦 Dipping my toe in the Twitter pool, sort of [@syntactic_sugar](https://twitter.com/syntacticXsugar)
