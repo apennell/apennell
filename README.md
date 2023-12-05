@@ -1,29 +1,17 @@
-## Hi, I'm Annie 💁‍♀️
+## Hi, I'm Annie 
 
-<!--
-**apennell/apennell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+₊⊹⁺˖ 
 
-Here are some ideas to get you started:
+I am a solution-seeking software engineer, driven by the need to learn, grow, share, and create. My core guiding principle is to always leave the Web better than I found it, so behind every delightful interface I build is extra attention to accessibility and sustainability. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+₊⊹⁺˖
 
-- Goals for 2020
-- My values
-- How I work
-- Get in touch/check me out
--->
+### ⇝ Check me out ⇝
 
-### Check me out
+⋄ Solo studio [Sparkbird Works](https://www.sparkbird.works/)
 
-👩‍💻 Personal website [anniepennell.com](https://anniepennell.com/)
+⋄ Personal website [anniepennell.com](https://anniepennell.com/)
 
-💼 My professional side on LinkedIn [/apennell](https://www.linkedin.com/in/anniepennell/)
+⋄ My professional details on LinkedIn [/apennell](https://www.linkedin.com/in/anniepennell/)
 
-📸 Cats, dogs, roller skating, and embroidery on IG [@syntactic_sugar](https://www.instagram.com/syntactic_sugar/)
+⋄ Cats, dogs, roller skating, embroidery, and wood things on IG [@syntactic_sugar](https://www.instagram.com/syntactic_sugar/)
